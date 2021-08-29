@@ -1,0 +1,12 @@
+{
+  "name": "rq-docker-image",
+  "version": "1.0.0",
+  "description": "Simple Docker Image by Range Quest",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Range Quest",
+  "license": "MIT"
+}
